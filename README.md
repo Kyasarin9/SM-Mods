@@ -1,4 +1,4 @@
-Simple Machines -Mods
+SMLine.net - Mods
 =======
 
 SMLine Modules
